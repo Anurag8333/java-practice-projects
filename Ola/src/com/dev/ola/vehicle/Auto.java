@@ -12,4 +12,9 @@ public class Auto {
 		System.out.println(companyName);
 	}
 	
+	public void autoDetail() {
+		System.out.println(space);
+		System.out.println(manual);
+		System.out.println(automatic);
+	}
 }

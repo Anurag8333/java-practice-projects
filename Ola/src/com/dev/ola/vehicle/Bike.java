@@ -12,7 +12,7 @@ public class Bike {
 		System.out.println(companyName);
 	}
 	
-	public void autoDetail() {
+	public void bikeDetail() {
 		System.out.println(space);
 		System.out.println(fuelType);
 		System.out.println(company);
